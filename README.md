@@ -1,6 +1,8 @@
 # lcd
 Manage lcd screen (without i2c)
 
+![Photo lcd](https://github.com/pigetnet/lcd/raw/master/doc/lcd_photo.JPG)
+
 # Wiring
 You can use whichever pins you want for the lcd screen.
 * Pins : http://pinout.xyz
@@ -17,7 +19,7 @@ You can use whichever pins you want for the lcd screen.
 * Red (5V) --> VDD
 
 ## Contrast/Luminosity 
-You need to put a trimpot or a resistor on (500ohms should be enough) or you won't be able
+You need to put a trimpot or a resistor (500ohms should be enough) or you won't be able
 to read text on the lcd screen.
 * K  (Luminosity) ---> Resistor (500ohm) / Trimpot 10K --> GND
 * V0 (Contrast) ---> Resistor (500ohm) / Trimpot 10K  --> GND
@@ -29,3 +31,10 @@ to read text on the lcd screen.
 * Purple --> 24
 * Brown --> 23
 * Orange --> 18
+
+## Schematics
+You should make a separate stripboard to manage 5V/GND/Resistor/Trimpot (see photo)
+
+![Gpio](https://github.com/pigetnet/lcd/raw/master/doc/lcd_wiring_gpio.png)
+![Gnd](https://github.com/pigetnet/lcd/raw/master/doc/lcd_wiring_gnd.png)
+![Vcc](https://github.com/pigetnet/lcd/raw/master/doc/lcd_wiring_vcc.png)
