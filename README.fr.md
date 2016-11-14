@@ -1,5 +1,5 @@
 # lcd
-Gérer un écran LCDn (sans i2c)
+Gérer un écran LCD (sans i2c)
 (Il vous faut piget pour utiliser les scripts : https://github.com/pigetnet/core )
 
 ![Photo lcd](https://github.com/pigetnet/lcd/raw/master/doc/lcd_photo.JPG)
