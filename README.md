@@ -3,6 +3,13 @@ Manage lcd screen (without i2c)
 
 ![Photo lcd](https://github.com/pigetnet/lcd/raw/master/doc/lcd_photo.JPG)
 
+# Components
+Use theses keywords to find the components
+* Resistor pack 240pcs : 2,50€
+* LCD 16x2 : 1,50€
+* Female headers 50pcs : 2,95€
+* Cable 30awg 8-color: 5.37€
+
 # Wiring
 You can use whichever pins you want for the lcd screen.
 * Pins : http://pinout.xyz
