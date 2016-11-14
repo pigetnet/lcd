@@ -1,3 +1,5 @@
+[English](https://github.com/pigetnet/lcd)
+
 # lcd
 Gérer un écran LCD (sans i2c)
 (Il vous faut piget pour utiliser les scripts : https://github.com/pigetnet/core )
