@@ -1,0 +1,2 @@
+#!/bin/bash
+python /do/lcd/python/test_16x2.py
