@@ -19,10 +19,10 @@ You can use whichever pins you want for the lcd screen.
 * Red (5V) --> VDD
 
 ## Contrast/Luminosity 
-You need to put a trimpot or a resistor (500ohms should be enough) or you won't be able
+You need to put a trimpot or a resistor or you won't be able
 to read text on the lcd screen.
-* K  (Luminosity) ---> Resistor (500ohm) / Trimpot 10K --> GND
-* V0 (Contrast) ---> Resistor (500ohm) / Trimpot 10K  --> GND
+* K  (Luminosity) ---> Resistor (1kohm) / Trimpot 10K --> GND
+* V0 (Contrast) ---> Resistor (2kohm) / Trimpot 10K  --> GND
 
 ## Cable --> Raspberry Pi
 * Yellow --> 7
