@@ -4,6 +4,9 @@ Gérer un écran LCD (sans i2c)
 
 ![Photo lcd](https://github.com/pigetnet/lcd/raw/master/doc/lcd_photo.JPG)
 
+# Dépendances
+RPLCD : https://github.com/dbrgn/RPLCD (Documentation en anglais disponible sur ce lien)
+
 # Components
 Utiliser ces mots-clés pour trouver les composants
 * Resistor pack 240pcs : 2,50€
