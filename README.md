@@ -1,5 +1,6 @@
 # lcd
 Manage lcd screen (without i2c)
+(You need piget to use the scripts : https://github.com/pigetnet/core )
 
 ![Photo lcd](https://github.com/pigetnet/lcd/raw/master/doc/lcd_photo.JPG)
 
