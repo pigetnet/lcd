@@ -1,3 +1,5 @@
+[Version française](https://github.com/pigetnet/lcd/blob/master/README.fr.md)
+
 # lcd
 Manage lcd screen (without i2c)
 (You need piget to use the scripts : https://github.com/pigetnet/core )
